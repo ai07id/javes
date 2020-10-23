@@ -30,8 +30,41 @@
       "value": ""   
     },
     "HEROKU_APPNAME": {
+      "description": "enter this app name agin here, very inportant for{
+  "name": "Javes",
+  "description": "Javes is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
+  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://t.me/javes05",
+  "website": "https://t.me/javes05",
+  "success_url": "https://t.me/rekcah05",
+  "stack": "container",
+  "env": {
+    "TELEGRAM_API_KEY": {
+      "description": "Get this value from my.telegram.org.[IMPORTANT]",
+      "value": "1297506"
+    },
+    "TELEGRAM_API_HASH": {
+      "description": "Get this value from my.telegram.org.[IMPORTANT]",
+      "value": "a2026f836928bc65e5369fdbca5fd3fd"
+    },
+    "TELEGRAM_STRING_SESSION": {
+      "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]"    
+      "value": "1BVtsOMIBu7tG3xZcElW6vmwPWjzt8UTBL2cHDg17iORvELnXaJLzyv_ZNsdOZJDGT7jFkExPb9By32COylZ4tqKLU9C7uakMFuQpePb3X2vmqMLpbZfNR_fBo_3eeHHdqKHWGBJJbNO0r2so3s9NqQ79I6W15tBND7UCsZnKG249lNm2OTrT3gT-Qt9IhfxOYck4RR4Ylq4ZUm3fKS-V06s9iz24kMFH_TN-TlOJ52ROyCa-2I86bkZbZYfiUXaeRzl7yyT7sd0yd5AYlryO7zn_FVvUnXEfTYlI0H0nijFzyAxBm-jMMsdl-lecbvJKrzAJ0VGAtma0KDAh7_8qx8Csjd4O9ro="
+    },
+    "HEROKU_APIKEY": {
+      "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
+      "value": "b1529a67-b24f-4d8d-9313-879d55c9d86b"   
+    },
+    "HEROKU_APPNAME": {
       "description": "enter this app name agin here, very inportant for !update comand to make javes up-to-date ,",
-      "value": ""
+      "value": "aiaan1"
       
      },
     "GENIUS_API_TOKEN": {
@@ -72,12 +105,12 @@
     },
     "BOTLOG": {
       "description": "Recommed to true ,BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "False",
+      "value": "True",
       "required": false
     },
     "BOTLOG_CHATID": {
       "description": "Important for wark some plugins,bot logs , make super group with @missrose_bot then type /id to get this value",
-      "value": "0",
+      "value": "-1001159519508",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -93,17 +126,17 @@
     },
     "YOUTUBE_API_KEY": {
       "description": "YouTube Data API Key for !youtube command. Get from https://console.cloud.google.com",
-      "value": "Enter api here if you need ",
+      "value": "AIzaSyCSJN9_7GB9zfrdTssqZ7XEI1pGjXAEBrc",
       "required": false
     },
     "OCR_SPACE_API_KEY": {
       "description": "OCR API Key for !read (read photo's text)command. Get from https://ocr.space/ocrapi",
-      "value": "Enter api here if you need ",
+      "value": "bf6f4fae3888957",
       "required": false
     },
     "REM_BG_API_KEY": {
       "description": "API Key for .rbg(remove background picture) command. Get from https://www.remove.bg/api",
-      "value": "Enter api here if you need ",
+      "value": "k5KfRWJJ2VizuTU3M5Sp8NNP",
       "required": false
     },
     "ANTI_SPAMBOT": {
@@ -129,7 +162,7 @@
       },
     "ALIVE_S_MESSAGE": {
       "description": "Edit if you want",
-      "value": "Iam Alive!",
+      "value": "HAI LAGI",
       "required": false
       
       },
@@ -141,13 +174,13 @@
       },
     "BIO_MESSAGE": {
       "description": "custom bio message while u using !autobio command",
-      "value": "Current date",
+      "value": "Just see",
       "required": false
       
       },
     "JAVES_NAME": {
       "description": "You can edit bot's name",
-      "value": "Javes ",
+      "value": "AI ",
       "required": false
     
     },
@@ -159,14 +192,14 @@
     },
     "SUDO_USERS": {
       "description": "give sudo user's id , he can controll your javes, you can add multiple sudo users id by space , sudo users cant access your privacy untill you on full_sudo",
-      "value": "",
+      "value": "959016764",
       "required": false
             
       
     },
     "AFK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "Hello Sir, My master offline just leave your message, Thankyou!",
+      "value": "Dahlah, Thankyou!",
       "required": false
            
       
@@ -180,7 +213,7 @@
     },
     "YOUR_SHORT_NAME": {
       "description": "Name to show in !javes message!",
-      "value": "your name",
+      "value": "ꀸ ꍏ ꋪ ꀘ ꌗ ꀤ ꀸ ꍟ",
       "required": true
       },
     "LYDIA_API_KEY": {
