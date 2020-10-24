@@ -24,7 +24,6 @@
     },
     "TELEGRAM_STRING_SESSION": {
       "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]"    
-      "value": "1BVtsOMIBu7tG3xZcElW6vmwPWjzt8UTBL2cHDg17iORvELnXaJLzyv_ZNsdOZJDGT7jFkExPb9By32COylZ4tqKLU9C7uakMFuQpePb3X2vmqMLpbZfNR_fBo_3eeHHdqKHWGBJJbNO0r2so3s9NqQ79I6W15tBND7UCsZnKG249lNm2OTrT3gT-Qt9IhfxOYck4RR4Ylq4ZUm3fKS-V06s9iz24kMFH_TN-TlOJ52ROyCa-2I86bkZbZYfiUXaeRzl7yyT7sd0yd5AYlryO7zn_FVvUnXEfTYlI0H0nijFzyAxBm-jMMsdl-lecbvJKrzAJ0VGAtma0KDAh7_8qx8Csjd4O9ro="
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
